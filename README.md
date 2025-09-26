@@ -60,13 +60,16 @@ Clone the repository:
 ```bash
 git clone git@github.com:<anon-username>/MathBench-2025.git
 cd MathBench-2025
+```
 
 Install dependencies (if applicable):
 
 ```bash
 pip install -r requirements.txt
+```
 
 Run evaluation:
 
 ```bash
 python evaluate_model.py --model <model_path_or_name>
+```
