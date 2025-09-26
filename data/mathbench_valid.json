@@ -1,0 +1,5358 @@
+[
+    {
+        "problem_id": "AP30130",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=8, acceleration a=2, time t=3",
+            "Compute final velocity: v = u + a*t = 14"
+        ],
+        "topic": "physics",
+        "reference_solution": "v = 14"
+    },
+    {
+        "problem_id": "PR40251",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AP40073",
+        "problem_type": "applied",
+        "complexity_level": 4,
+        "solution_steps": [
+            "P=360, r=0.05, n=1, t=8",
+            "A = P*(1+r/n)^(n*t) \u2248 531.88"
+        ],
+        "topic": "physics",
+        "reference_solution": "A \u2248 531.88"
+    },
+    {
+        "problem_id": "PR40164",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10340",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 31 + 12",
+            "Result: 43"
+        ],
+        "topic": "division",
+        "reference_solution": 43
+    },
+    {
+        "problem_id": "AP40089",
+        "problem_type": "applied",
+        "complexity_level": 4,
+        "solution_steps": [
+            "P=664, r=0.09, n=1, t=7",
+            "A = P*(1+r/n)^(n*t) \u2248 1213.82"
+        ],
+        "topic": "finance",
+        "reference_solution": "A \u2248 1213.82"
+    },
+    {
+        "problem_id": "AR10478",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 2 - 30",
+            "Result: -28"
+        ],
+        "topic": "subtraction",
+        "reference_solution": -28
+    },
+    {
+        "problem_id": "AP40032",
+        "problem_type": "applied",
+        "complexity_level": 4,
+        "solution_steps": [
+            "u=19, a=4, t=14",
+            "s = ut + 0.5*a*t^2 = 658.0"
+        ],
+        "topic": "finance",
+        "reference_solution": "s = 658.0"
+    },
+    {
+        "problem_id": "AR30005",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 38 - 21",
+            "Result: 17"
+        ],
+        "topic": "addition",
+        "reference_solution": 17
+    },
+    {
+        "problem_id": "AP40096",
+        "problem_type": "applied",
+        "complexity_level": 4,
+        "solution_steps": [
+            "P=208, r=0.06, n=1, t=9",
+            "A = P*(1+r/n)^(n*t) \u2248 351.41"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "A \u2248 351.41"
+    },
+    {
+        "problem_id": "PR40121",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR30047",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 44 - 19",
+            "Result: 25"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 25
+    },
+    {
+        "problem_id": "AL40020",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 3x^2 + 1x + 10 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 0",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -1, x2 = -1"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x1 = -1, x2 = -1"
+    },
+    {
+        "problem_id": "AP40051",
+        "problem_type": "applied",
+        "complexity_level": 4,
+        "solution_steps": [
+            "u=20, a=1, t=6",
+            "s = ut + 0.5*a*t^2 = 138.0"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "s = 138.0"
+    },
+    {
+        "problem_id": "AP20015",
+        "problem_type": "applied",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Initial velocity u=20, acceleration a=4, time t=10",
+            "Compute final velocity: v = u + a*t = 60"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "v = 60"
+    },
+    {
+        "problem_id": "AP30035",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=11, acceleration a=4, time t=4",
+            "Compute final velocity: v = u + a*t = 27"
+        ],
+        "topic": "finance",
+        "reference_solution": "v = 27"
+    },
+    {
+        "problem_id": "AL10095",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 18 = 31",
+            "x = 13"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 13"
+    },
+    {
+        "problem_id": "AL20138",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 18 = 29",
+            "x = 11"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 11"
+    },
+    {
+        "problem_id": "AP20029",
+        "problem_type": "applied",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Initial velocity u=9, acceleration a=1, time t=4",
+            "Compute final velocity: v = u + a*t = 13"
+        ],
+        "topic": "finance",
+        "reference_solution": "v = 13"
+    },
+    {
+        "problem_id": "AR10041",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 50 - 31",
+            "Result: 19"
+        ],
+        "topic": "addition",
+        "reference_solution": 19
+    },
+    {
+        "problem_id": "PR50034",
+        "problem_type": "proof",
+        "complexity_level": 5,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL30315",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 22, 2x - y = 17",
+            "From x + y = 22 => y = 22-x",
+            "Substitute: 2x - (22-x) = 17 => Solve x",
+            "x = 13, y = 9"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 13, y = 9"
+    },
+    {
+        "problem_id": "AL30293",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 33, 2x - y = 6",
+            "From x + y = 33 => y = 33-x",
+            "Substitute: 2x - (33-x) = 6 => Solve x",
+            "x = 13, y = 20"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 13, y = 20"
+    },
+    {
+        "problem_id": "AL30057",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 25, 2x - y = 11",
+            "From x + y = 25 => y = 25-x",
+            "Substitute: 2x - (25-x) = 11 => Solve x",
+            "x = 12, y = 13"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 12, y = 13"
+    },
+    {
+        "problem_id": "AR10303",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 49 * 6",
+            "Result: 294"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 294
+    },
+    {
+        "problem_id": "AR10344",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 7 + 49",
+            "Result: 56"
+        ],
+        "topic": "division",
+        "reference_solution": 56
+    },
+    {
+        "problem_id": "AP30142",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=10, acceleration a=5, time t=9",
+            "Compute final velocity: v = u + a*t = 55"
+        ],
+        "topic": "physics",
+        "reference_solution": "v = 55"
+    },
+    {
+        "problem_id": "AP50033",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=27, a=2, t=10",
+            "s = ut + 0.5*a*t^2 = 370.0"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "s = 370.0"
+    },
+    {
+        "problem_id": "PR20016",
+        "problem_type": "proof",
+        "complexity_level": 2,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL30324",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 23, 2x - y = 22",
+            "From x + y = 23 => y = 23-x",
+            "Substitute: 2x - (23-x) = 22 => Solve x",
+            "x = 15, y = 8"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 15, y = 8"
+    },
+    {
+        "problem_id": "AL10153",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 20 = 38",
+            "x = 18"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 18"
+    },
+    {
+        "problem_id": "AL30476",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 28, 2x - y = 17",
+            "From x + y = 28 => y = 28-x",
+            "Substitute: 2x - (28-x) = 17 => Solve x",
+            "x = 15, y = 13"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 15, y = 13"
+    },
+    {
+        "problem_id": "AR10378",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 10 * 39",
+            "Result: 390"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 390
+    },
+    {
+        "problem_id": "AL10079",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 12 = 31",
+            "x = 19"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 19"
+    },
+    {
+        "problem_id": "PR40117",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10586",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 21 - 26",
+            "Result: -5"
+        ],
+        "topic": "subtraction",
+        "reference_solution": -5
+    },
+    {
+        "problem_id": "AP50054",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=30, a=2, t=6",
+            "s = ut + 0.5*a*t^2 = 216.0"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "s = 216.0"
+    },
+    {
+        "problem_id": "AR20083",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 13 + 2",
+            "Result: 15"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 15
+    },
+    {
+        "problem_id": "AP30132",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=7, acceleration a=4, time t=2",
+            "Compute final velocity: v = u + a*t = 15"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "v = 15"
+    },
+    {
+        "problem_id": "AR10341",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 26 // 6",
+            "Result: 4"
+        ],
+        "topic": "addition",
+        "reference_solution": 4
+    },
+    {
+        "problem_id": "AR10142",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 9 + 18",
+            "Result: 27"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 27
+    },
+    {
+        "problem_id": "PR40162",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10533",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 4 // 7",
+            "Result: 0"
+        ],
+        "topic": "addition",
+        "reference_solution": 0
+    },
+    {
+        "problem_id": "AR10208",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 16 + 14",
+            "Result: 30"
+        ],
+        "topic": "division",
+        "reference_solution": 30
+    },
+    {
+        "problem_id": "AL10155",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 19 = 26",
+            "x = 7"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 7"
+    },
+    {
+        "problem_id": "PR30035",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR40201",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10563",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 4 * 45",
+            "Result: 180"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 180
+    },
+    {
+        "problem_id": "PR50044",
+        "problem_type": "proof",
+        "complexity_level": 5,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL10129",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 12 = 21",
+            "x = 9"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 9"
+    },
+    {
+        "problem_id": "AP40054",
+        "problem_type": "applied",
+        "complexity_level": 4,
+        "solution_steps": [
+            "u=17, a=5, t=10",
+            "s = ut + 0.5*a*t^2 = 420.0"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "s = 420.0"
+    },
+    {
+        "problem_id": "AL30455",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 35, 2x - y = 13",
+            "From x + y = 35 => y = 35-x",
+            "Substitute: 2x - (35-x) = 13 => Solve x",
+            "x = 16, y = 19"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 16, y = 19"
+    },
+    {
+        "problem_id": "PR40113",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR30018",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 18 * 11",
+            "Result: 198"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 198
+    },
+    {
+        "problem_id": "PR50035",
+        "problem_type": "proof",
+        "complexity_level": 5,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL20162",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 15 = 19",
+            "x = 4"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 4"
+    },
+    {
+        "problem_id": "AR20168",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 15 + 26",
+            "Result: 41"
+        ],
+        "topic": "division",
+        "reference_solution": 41
+    },
+    {
+        "problem_id": "AR30089",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 47 + 45",
+            "Result: 92"
+        ],
+        "topic": "addition",
+        "reference_solution": 92
+    },
+    {
+        "problem_id": "AR10027",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 49 * 36",
+            "Result: 1764"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 1764
+    },
+    {
+        "problem_id": "AL30399",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 22, 2x - y = 26",
+            "From x + y = 22 => y = 22-x",
+            "Substitute: 2x - (22-x) = 26 => Solve x",
+            "x = 16, y = 6"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 16, y = 6"
+    },
+    {
+        "problem_id": "AR10534",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 15 - 10",
+            "Result: 5"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 5
+    },
+    {
+        "problem_id": "AL10030",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 5 = 11",
+            "x = 6"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 6"
+    },
+    {
+        "problem_id": "AP30026",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=18, acceleration a=3, time t=2",
+            "Compute final velocity: v = u + a*t = 24"
+        ],
+        "topic": "finance",
+        "reference_solution": "v = 24"
+    },
+    {
+        "problem_id": "AL20189",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 6 = 20",
+            "x = 14"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 14"
+    },
+    {
+        "problem_id": "AP50198",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=13, a=4, t=8",
+            "s = ut + 0.5*a*t^2 = 232.0"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "s = 232.0"
+    },
+    {
+        "problem_id": "AR30042",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 27 - 3",
+            "Result: 24"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 24
+    },
+    {
+        "problem_id": "PR40241",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL20317",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 11 = 17",
+            "x = 6"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 6"
+    },
+    {
+        "problem_id": "AL30354",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 31, 2x - y = 11",
+            "From x + y = 31 => y = 31-x",
+            "Substitute: 2x - (31-x) = 11 => Solve x",
+            "x = 14, y = 17"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 14, y = 17"
+    },
+    {
+        "problem_id": "AR10030",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 19 // 30",
+            "Result: 0"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 0
+    },
+    {
+        "problem_id": "AP20021",
+        "problem_type": "applied",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Initial velocity u=6, acceleration a=2, time t=7",
+            "Compute final velocity: v = u + a*t = 20"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "v = 20"
+    },
+    {
+        "problem_id": "AP50004",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=12, a=4, t=7",
+            "s = ut + 0.5*a*t^2 = 182.0"
+        ],
+        "topic": "physics",
+        "reference_solution": "s = 182.0"
+    },
+    {
+        "problem_id": "AL20164",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 18 = 36",
+            "x = 18"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 18"
+    },
+    {
+        "problem_id": "AL30318",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 24, 2x - y = 6",
+            "From x + y = 24 => y = 24-x",
+            "Substitute: 2x - (24-x) = 6 => Solve x",
+            "x = 10, y = 14"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 10, y = 14"
+    },
+    {
+        "problem_id": "AL20303",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 15 = 29",
+            "x = 14"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 14"
+    },
+    {
+        "problem_id": "AR10567",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 41 * 49",
+            "Result: 2009"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 2009
+    },
+    {
+        "problem_id": "AL20030",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 12 = 15",
+            "x = 3"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 3"
+    },
+    {
+        "problem_id": "AL20186",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 12 = 32",
+            "x = 20"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 20"
+    },
+    {
+        "problem_id": "AL10175",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 17 = 26",
+            "x = 9"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 9"
+    },
+    {
+        "problem_id": "AR10226",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 40 // 40",
+            "Result: 1"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 1
+    },
+    {
+        "problem_id": "AL40027",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 4x^2 + 5x + 7 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 0",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -1, x2 = -1"
+        ],
+        "topic": "systems",
+        "reference_solution": "x1 = -1, x2 = -1"
+    },
+    {
+        "problem_id": "AL30115",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 8, 2x - y = 7",
+            "From x + y = 8 => y = 8-x",
+            "Substitute: 2x - (8-x) = 7 => Solve x",
+            "x = 5, y = 3"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 5, y = 3"
+    },
+    {
+        "problem_id": "AL20339",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 1 = 18",
+            "x = 17"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 17"
+    },
+    {
+        "problem_id": "AR10199",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 27 // 30",
+            "Result: 0"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 0
+    },
+    {
+        "problem_id": "AL30128",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 18, 2x - y = -15",
+            "From x + y = 18 => y = 18-x",
+            "Substitute: 2x - (18-x) = -15 => Solve x",
+            "x = 1, y = 17"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 1, y = 17"
+    },
+    {
+        "problem_id": "PR40138",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR30053",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10472",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 48 * 33",
+            "Result: 1584"
+        ],
+        "topic": "division",
+        "reference_solution": 1584
+    },
+    {
+        "problem_id": "AP30029",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=12, acceleration a=3, time t=3",
+            "Compute final velocity: v = u + a*t = 21"
+        ],
+        "topic": "finance",
+        "reference_solution": "v = 21"
+    },
+    {
+        "problem_id": "AR30080",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 23 + 4",
+            "Result: 27"
+        ],
+        "topic": "division",
+        "reference_solution": 27
+    },
+    {
+        "problem_id": "PR40277",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AP40009",
+        "problem_type": "applied",
+        "complexity_level": 4,
+        "solution_steps": [
+            "u=23, a=2, t=7",
+            "s = ut + 0.5*a*t^2 = 210.0"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "s = 210.0"
+    },
+    {
+        "problem_id": "AR10202",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 36 * 31",
+            "Result: 1116"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 1116
+    },
+    {
+        "problem_id": "AR10312",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 32 + 18",
+            "Result: 50"
+        ],
+        "topic": "division",
+        "reference_solution": 50
+    },
+    {
+        "problem_id": "AL20315",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 12 = 15",
+            "x = 3"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 3"
+    },
+    {
+        "problem_id": "AL20141",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 12 = 28",
+            "x = 16"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 16"
+    },
+    {
+        "problem_id": "AR10453",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 11 * 1",
+            "Result: 11"
+        ],
+        "topic": "addition",
+        "reference_solution": 11
+    },
+    {
+        "problem_id": "AP50089",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "P=337, r=0.04, n=1, t=8",
+            "A = P*(1+r/n)^(n*t) \u2248 461.21"
+        ],
+        "topic": "finance",
+        "reference_solution": "A \u2248 461.21"
+    },
+    {
+        "problem_id": "AR10405",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 9 // 17",
+            "Result: 0"
+        ],
+        "topic": "addition",
+        "reference_solution": 0
+    },
+    {
+        "problem_id": "AP50124",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "P=285, r=0.09, n=1, t=6",
+            "A = P*(1+r/n)^(n*t) \u2248 477.97"
+        ],
+        "topic": "physics",
+        "reference_solution": "A \u2248 477.97"
+    },
+    {
+        "problem_id": "AR10439",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 28 - 22",
+            "Result: 6"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 6
+    },
+    {
+        "problem_id": "AL10009",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 4 = 16",
+            "x = 12"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 12"
+    },
+    {
+        "problem_id": "AL30405",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 22, 2x - y = -1",
+            "From x + y = 22 => y = 22-x",
+            "Substitute: 2x - (22-x) = -1 => Solve x",
+            "x = 7, y = 15"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 7, y = 15"
+    },
+    {
+        "problem_id": "AL30350",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 19, 2x - y = 2",
+            "From x + y = 19 => y = 19-x",
+            "Substitute: 2x - (19-x) = 2 => Solve x",
+            "x = 7, y = 12"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 7, y = 12"
+    },
+    {
+        "problem_id": "AR20128",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 35 + 21",
+            "Result: 56"
+        ],
+        "topic": "division",
+        "reference_solution": 56
+    },
+    {
+        "problem_id": "AL30111",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 20, 2x - y = 7",
+            "From x + y = 20 => y = 20-x",
+            "Substitute: 2x - (20-x) = 7 => Solve x",
+            "x = 9, y = 11"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 9, y = 11"
+    },
+    {
+        "problem_id": "AL30303",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 30, 2x - y = 30",
+            "From x + y = 30 => y = 30-x",
+            "Substitute: 2x - (30-x) = 30 => Solve x",
+            "x = 20, y = 10"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 20, y = 10"
+    },
+    {
+        "problem_id": "AR10546",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 16 * 30",
+            "Result: 480"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 480
+    },
+    {
+        "problem_id": "AL20149",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 1 = 10",
+            "x = 9"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 9"
+    },
+    {
+        "problem_id": "AL20173",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 2 = 8",
+            "x = 6"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 6"
+    },
+    {
+        "problem_id": "AR10540",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 3 * 30",
+            "Result: 90"
+        ],
+        "topic": "division",
+        "reference_solution": 90
+    },
+    {
+        "problem_id": "AP30099",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=7, acceleration a=4, time t=6",
+            "Compute final velocity: v = u + a*t = 31"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "v = 31"
+    },
+    {
+        "problem_id": "AP30077",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=14, acceleration a=3, time t=4",
+            "Compute final velocity: v = u + a*t = 26"
+        ],
+        "topic": "finance",
+        "reference_solution": "v = 26"
+    },
+    {
+        "problem_id": "AR30045",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 28 + 21",
+            "Result: 49"
+        ],
+        "topic": "addition",
+        "reference_solution": 49
+    },
+    {
+        "problem_id": "AR10558",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 5 + 3",
+            "Result: 8"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 8
+    },
+    {
+        "problem_id": "AL30469",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 17, 2x - y = -2",
+            "From x + y = 17 => y = 17-x",
+            "Substitute: 2x - (17-x) = -2 => Solve x",
+            "x = 5, y = 12"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 5, y = 12"
+    },
+    {
+        "problem_id": "AL30166",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 36, 2x - y = 12",
+            "From x + y = 36 => y = 36-x",
+            "Substitute: 2x - (36-x) = 12 => Solve x",
+            "x = 16, y = 20"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 16, y = 20"
+    },
+    {
+        "problem_id": "AL20271",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 8 = 14",
+            "x = 6"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 6"
+    },
+    {
+        "problem_id": "AR10054",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 38 + 6",
+            "Result: 44"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 44
+    },
+    {
+        "problem_id": "AR10189",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 31 * 2",
+            "Result: 62"
+        ],
+        "topic": "addition",
+        "reference_solution": 62
+    },
+    {
+        "problem_id": "AP50108",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "P=1000, r=0.09, n=1, t=9",
+            "A = P*(1+r/n)^(n*t) \u2248 2171.89"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "A \u2248 2171.89"
+    },
+    {
+        "problem_id": "AL40078",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 5x^2 + 4x + 6 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 0",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -1, x2 = -1"
+        ],
+        "topic": "systems",
+        "reference_solution": "x1 = -1, x2 = -1"
+    },
+    {
+        "problem_id": "AR10493",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 30 - 3",
+            "Result: 27"
+        ],
+        "topic": "addition",
+        "reference_solution": 27
+    },
+    {
+        "problem_id": "AL20233",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 6 = 17",
+            "x = 11"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 11"
+    },
+    {
+        "problem_id": "AL30073",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 29, 2x - y = 4",
+            "From x + y = 29 => y = 29-x",
+            "Substitute: 2x - (29-x) = 4 => Solve x",
+            "x = 11, y = 18"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 11, y = 18"
+    },
+    {
+        "problem_id": "AL20178",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 16 = 23",
+            "x = 7"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 7"
+    },
+    {
+        "problem_id": "AP20028",
+        "problem_type": "applied",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Initial velocity u=6, acceleration a=3, time t=3",
+            "Compute final velocity: v = u + a*t = 15"
+        ],
+        "topic": "physics",
+        "reference_solution": "v = 15"
+    },
+    {
+        "problem_id": "AL20286",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 3 = 19",
+            "x = 16"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 16"
+    },
+    {
+        "problem_id": "AR10421",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 25 + 15",
+            "Result: 40"
+        ],
+        "topic": "addition",
+        "reference_solution": 40
+    },
+    {
+        "problem_id": "AR10306",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 20 * 18",
+            "Result: 360"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 360
+    },
+    {
+        "problem_id": "AL30477",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 32, 2x - y = 22",
+            "From x + y = 32 => y = 32-x",
+            "Substitute: 2x - (32-x) = 22 => Solve x",
+            "x = 18, y = 14"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 18, y = 14"
+    },
+    {
+        "problem_id": "PR30018",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AP40007",
+        "problem_type": "applied",
+        "complexity_level": 4,
+        "solution_steps": [
+            "P=701, r=0.01, n=1, t=7",
+            "A = P*(1+r/n)^(n*t) \u2248 751.57"
+        ],
+        "topic": "physics",
+        "reference_solution": "A \u2248 751.57"
+    },
+    {
+        "problem_id": "AR20143",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 44 * 36",
+            "Result: 1584"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 1584
+    },
+    {
+        "problem_id": "AL40066",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 5x^2 + 4x + 9 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 0",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -1, x2 = -1"
+        ],
+        "topic": "systems",
+        "reference_solution": "x1 = -1, x2 = -1"
+    },
+    {
+        "problem_id": "AR10123",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 11 * 34",
+            "Result: 374"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 374
+    },
+    {
+        "problem_id": "AR30084",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 33 - 26",
+            "Result: 7"
+        ],
+        "topic": "division",
+        "reference_solution": 7
+    },
+    {
+        "problem_id": "PR30014",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL30221",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 14, 2x - y = 1",
+            "From x + y = 14 => y = 14-x",
+            "Substitute: 2x - (14-x) = 1 => Solve x",
+            "x = 5, y = 9"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 5, y = 9"
+    },
+    {
+        "problem_id": "AP40015",
+        "problem_type": "applied",
+        "complexity_level": 4,
+        "solution_steps": [
+            "u=29, a=2, t=15",
+            "s = ut + 0.5*a*t^2 = 660.0"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "s = 660.0"
+    },
+    {
+        "problem_id": "AL30209",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 26, 2x - y = -2",
+            "From x + y = 26 => y = 26-x",
+            "Substitute: 2x - (26-x) = -2 => Solve x",
+            "x = 8, y = 18"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 8, y = 18"
+    },
+    {
+        "problem_id": "AL10151",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 17 = 26",
+            "x = 9"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 9"
+    },
+    {
+        "problem_id": "AP50013",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "P=412, r=0.06, n=1, t=5",
+            "A = P*(1+r/n)^(n*t) \u2248 551.35"
+        ],
+        "topic": "physics",
+        "reference_solution": "A \u2248 551.35"
+    },
+    {
+        "problem_id": "AR20029",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 19 - 2",
+            "Result: 17"
+        ],
+        "topic": "addition",
+        "reference_solution": 17
+    },
+    {
+        "problem_id": "PR30083",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10004",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 46 - 33",
+            "Result: 13"
+        ],
+        "topic": "division",
+        "reference_solution": 13
+    },
+    {
+        "problem_id": "AL30226",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 28, 2x - y = 17",
+            "From x + y = 28 => y = 28-x",
+            "Substitute: 2x - (28-x) = 17 => Solve x",
+            "x = 15, y = 13"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 15, y = 13"
+    },
+    {
+        "problem_id": "AP50113",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "P=538, r=0.09, n=1, t=7",
+            "A = P*(1+r/n)^(n*t) \u2248 983.49"
+        ],
+        "topic": "finance",
+        "reference_solution": "A \u2248 983.49"
+    },
+    {
+        "problem_id": "AL20234",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 20 = 21",
+            "x = 1"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 1"
+    },
+    {
+        "problem_id": "AP50154",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=22, a=5, t=10",
+            "s = ut + 0.5*a*t^2 = 470.0"
+        ],
+        "topic": "physics",
+        "reference_solution": "s = 470.0"
+    },
+    {
+        "problem_id": "AR20020",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 49 + 6",
+            "Result: 55"
+        ],
+        "topic": "division",
+        "reference_solution": 55
+    },
+    {
+        "problem_id": "AP30060",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=7, acceleration a=2, time t=9",
+            "Compute final velocity: v = u + a*t = 25"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "v = 25"
+    },
+    {
+        "problem_id": "AR20003",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 37 * 11",
+            "Result: 407"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 407
+    },
+    {
+        "problem_id": "AR20110",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 41 * 8",
+            "Result: 328"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 328
+    },
+    {
+        "problem_id": "AL10016",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 3 = 20",
+            "x = 17"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 17"
+    },
+    {
+        "problem_id": "AL10108",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 14 = 20",
+            "x = 6"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 6"
+    },
+    {
+        "problem_id": "AL40042",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 3x^2 + 7x + 1 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 37",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -1, x2 = -3"
+        ],
+        "topic": "systems",
+        "reference_solution": "x1 = -1, x2 = -3"
+    },
+    {
+        "problem_id": "AR10138",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 7 + 32",
+            "Result: 39"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 39
+    },
+    {
+        "problem_id": "AR30065",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 1 - 36",
+            "Result: -35"
+        ],
+        "topic": "addition",
+        "reference_solution": -35
+    },
+    {
+        "problem_id": "AP50060",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=16, a=4, t=12",
+            "s = ut + 0.5*a*t^2 = 480.0"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "s = 480.0"
+    },
+    {
+        "problem_id": "AR10186",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 48 - 7",
+            "Result: 41"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 41
+    },
+    {
+        "problem_id": "AR10431",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 43 // 26",
+            "Result: 1"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 1
+    },
+    {
+        "problem_id": "AR20043",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 9 * 47",
+            "Result: 423"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 423
+    },
+    {
+        "problem_id": "AR10401",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 19 * 37",
+            "Result: 703"
+        ],
+        "topic": "addition",
+        "reference_solution": 703
+    },
+    {
+        "problem_id": "PR40195",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL20283",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 13 = 20",
+            "x = 7"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 7"
+    },
+    {
+        "problem_id": "AL30094",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 14, 2x - y = -11",
+            "From x + y = 14 => y = 14-x",
+            "Substitute: 2x - (14-x) = -11 => Solve x",
+            "x = 1, y = 13"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 1, y = 13"
+    },
+    {
+        "problem_id": "AP40093",
+        "problem_type": "applied",
+        "complexity_level": 4,
+        "solution_steps": [
+            "u=15, a=4, t=13",
+            "s = ut + 0.5*a*t^2 = 533.0"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "s = 533.0"
+    },
+    {
+        "problem_id": "PR30073",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR20121",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 12 * 12",
+            "Result: 144"
+        ],
+        "topic": "addition",
+        "reference_solution": 144
+    },
+    {
+        "problem_id": "AL10177",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 16 = 21",
+            "x = 5"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 5"
+    },
+    {
+        "problem_id": "PR20002",
+        "problem_type": "proof",
+        "complexity_level": 2,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10074",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 1 + 16",
+            "Result: 17"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 17
+    },
+    {
+        "problem_id": "AR10413",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 2 * 13",
+            "Result: 26"
+        ],
+        "topic": "addition",
+        "reference_solution": 26
+    },
+    {
+        "problem_id": "PR30061",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10008",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 50 - 1",
+            "Result: 49"
+        ],
+        "topic": "division",
+        "reference_solution": 49
+    },
+    {
+        "problem_id": "AL30428",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 6, 2x - y = 0",
+            "From x + y = 6 => y = 6-x",
+            "Substitute: 2x - (6-x) = 0 => Solve x",
+            "x = 2, y = 4"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 2, y = 4"
+    },
+    {
+        "problem_id": "PR40019",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AP50199",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "P=531, r=0.03, n=1, t=8",
+            "A = P*(1+r/n)^(n*t) \u2248 672.65"
+        ],
+        "topic": "physics",
+        "reference_solution": "A \u2248 672.65"
+    },
+    {
+        "problem_id": "AP50160",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=11, a=3, t=13",
+            "s = ut + 0.5*a*t^2 = 396.5"
+        ],
+        "topic": "physics",
+        "reference_solution": "s = 396.5"
+    },
+    {
+        "problem_id": "AL30261",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 7, 2x - y = -1",
+            "From x + y = 7 => y = 7-x",
+            "Substitute: 2x - (7-x) = -1 => Solve x",
+            "x = 2, y = 5"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 2, y = 5"
+    },
+    {
+        "problem_id": "PR20005",
+        "problem_type": "proof",
+        "complexity_level": 2,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10012",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 14 * 40",
+            "Result: 560"
+        ],
+        "topic": "division",
+        "reference_solution": 560
+    },
+    {
+        "problem_id": "PR40057",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL20134",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 3 = 6",
+            "x = 3"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 3"
+    },
+    {
+        "problem_id": "AL20292",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 13 = 18",
+            "x = 5"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 5"
+    },
+    {
+        "problem_id": "AR20130",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 25 * 19",
+            "Result: 475"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 475
+    },
+    {
+        "problem_id": "PR40071",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR40007",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL20377",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 10 = 15",
+            "x = 5"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 5"
+    },
+    {
+        "problem_id": "PR40033",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10403",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 15 - 5",
+            "Result: 10"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 10
+    },
+    {
+        "problem_id": "AP50147",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=22, a=2, t=15",
+            "s = ut + 0.5*a*t^2 = 555.0"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "s = 555.0"
+    },
+    {
+        "problem_id": "AL20372",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 11 = 14",
+            "x = 3"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 3"
+    },
+    {
+        "problem_id": "AL40076",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 5x^2 + 6x + 4 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 0",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -1, x2 = -1"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x1 = -1, x2 = -1"
+    },
+    {
+        "problem_id": "AL10123",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 1 = 18",
+            "x = 17"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 17"
+    },
+    {
+        "problem_id": "AR10385",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 24 + 49",
+            "Result: 73"
+        ],
+        "topic": "addition",
+        "reference_solution": 73
+    },
+    {
+        "problem_id": "PR30031",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL30410",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 35, 2x - y = 22",
+            "From x + y = 35 => y = 35-x",
+            "Substitute: 2x - (35-x) = 22 => Solve x",
+            "x = 19, y = 16"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 19, y = 16"
+    },
+    {
+        "problem_id": "PR40295",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR40146",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR40291",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR30095",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL20325",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 9 = 12",
+            "x = 3"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 3"
+    },
+    {
+        "problem_id": "PR40173",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR40002",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR40171",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AP50012",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=23, a=5, t=6",
+            "s = ut + 0.5*a*t^2 = 228.0"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "s = 228.0"
+    },
+    {
+        "problem_id": "AP50061",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "P=142, r=0.08, n=1, t=9",
+            "A = P*(1+r/n)^(n*t) \u2248 283.86"
+        ],
+        "topic": "physics",
+        "reference_solution": "A \u2248 283.86"
+    },
+    {
+        "problem_id": "AR10501",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 49 + 5",
+            "Result: 54"
+        ],
+        "topic": "addition",
+        "reference_solution": 54
+    },
+    {
+        "problem_id": "AL40075",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 3x^2 + 2x + 3 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 0",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -1, x2 = -1"
+        ],
+        "topic": "systems",
+        "reference_solution": "x1 = -1, x2 = -1"
+    },
+    {
+        "problem_id": "AR20089",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 29 + 3",
+            "Result: 32"
+        ],
+        "topic": "addition",
+        "reference_solution": 32
+    },
+    {
+        "problem_id": "AR10059",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 20 * 28",
+            "Result: 560"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 560
+    },
+    {
+        "problem_id": "AP30097",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=15, acceleration a=2, time t=1",
+            "Compute final velocity: v = u + a*t = 17"
+        ],
+        "topic": "physics",
+        "reference_solution": "v = 17"
+    },
+    {
+        "problem_id": "AR10165",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 5 + 18",
+            "Result: 23"
+        ],
+        "topic": "addition",
+        "reference_solution": 23
+    },
+    {
+        "problem_id": "AP50083",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=10, a=4, t=7",
+            "s = ut + 0.5*a*t^2 = 168.0"
+        ],
+        "topic": "finance",
+        "reference_solution": "s = 168.0"
+    },
+    {
+        "problem_id": "AP30074",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=17, acceleration a=1, time t=8",
+            "Compute final velocity: v = u + a*t = 25"
+        ],
+        "topic": "finance",
+        "reference_solution": "v = 25"
+    },
+    {
+        "problem_id": "AR30082",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 48 // 49",
+            "Result: 0"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 0
+    },
+    {
+        "problem_id": "PR40154",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AP50068",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=21, a=2, t=11",
+            "s = ut + 0.5*a*t^2 = 352.0"
+        ],
+        "topic": "finance",
+        "reference_solution": "s = 352.0"
+    },
+    {
+        "problem_id": "PR40083",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10279",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 1 + 13",
+            "Result: 14"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 14
+    },
+    {
+        "problem_id": "AL10036",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 20 = 26",
+            "x = 6"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 6"
+    },
+    {
+        "problem_id": "AR20106",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 41 // 10",
+            "Result: 4"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 4
+    },
+    {
+        "problem_id": "AP30082",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=11, acceleration a=4, time t=5",
+            "Compute final velocity: v = u + a*t = 31"
+        ],
+        "topic": "physics",
+        "reference_solution": "v = 31"
+    },
+    {
+        "problem_id": "AL20376",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 6 = 17",
+            "x = 11"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 11"
+    },
+    {
+        "problem_id": "AR20129",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 43 // 48",
+            "Result: 0"
+        ],
+        "topic": "addition",
+        "reference_solution": 0
+    },
+    {
+        "problem_id": "PR40187",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10145",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 42 // 40",
+            "Result: 1"
+        ],
+        "topic": "addition",
+        "reference_solution": 1
+    },
+    {
+        "problem_id": "AL10200",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 8 = 27",
+            "x = 19"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 19"
+    },
+    {
+        "problem_id": "AR10238",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 33 - 38",
+            "Result: -5"
+        ],
+        "topic": "subtraction",
+        "reference_solution": -5
+    },
+    {
+        "problem_id": "AR10095",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 40 // 44",
+            "Result: 0"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 0
+    },
+    {
+        "problem_id": "AP30104",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=20, acceleration a=2, time t=1",
+            "Compute final velocity: v = u + a*t = 22"
+        ],
+        "topic": "finance",
+        "reference_solution": "v = 22"
+    },
+    {
+        "problem_id": "AL30099",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 18, 2x - y = 9",
+            "From x + y = 18 => y = 18-x",
+            "Substitute: 2x - (18-x) = 9 => Solve x",
+            "x = 9, y = 9"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 9, y = 9"
+    },
+    {
+        "problem_id": "AL30092",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 26, 2x - y = 34",
+            "From x + y = 26 => y = 26-x",
+            "Substitute: 2x - (26-x) = 34 => Solve x",
+            "x = 20, y = 6"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 20, y = 6"
+    },
+    {
+        "problem_id": "AL30474",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 28, 2x - y = 26",
+            "From x + y = 28 => y = 28-x",
+            "Substitute: 2x - (28-x) = 26 => Solve x",
+            "x = 18, y = 10"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 18, y = 10"
+    },
+    {
+        "problem_id": "AR20158",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 24 // 2",
+            "Result: 12"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 12
+    },
+    {
+        "problem_id": "AL10087",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 9 = 14",
+            "x = 5"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 5"
+    },
+    {
+        "problem_id": "AL10003",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 16 = 23",
+            "x = 7"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 7"
+    },
+    {
+        "problem_id": "AP30148",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=19, acceleration a=5, time t=2",
+            "Compute final velocity: v = u + a*t = 29"
+        ],
+        "topic": "physics",
+        "reference_solution": "v = 29"
+    },
+    {
+        "problem_id": "AR10592",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 26 * 42",
+            "Result: 1092"
+        ],
+        "topic": "division",
+        "reference_solution": 1092
+    },
+    {
+        "problem_id": "AL10047",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 13 = 26",
+            "x = 13"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 13"
+    },
+    {
+        "problem_id": "AL30440",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 34, 2x - y = 26",
+            "From x + y = 34 => y = 34-x",
+            "Substitute: 2x - (34-x) = 26 => Solve x",
+            "x = 20, y = 14"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 20, y = 14"
+    },
+    {
+        "problem_id": "AR10050",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 46 // 36",
+            "Result: 1"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 1
+    },
+    {
+        "problem_id": "PR40147",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10193",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 3 - 17",
+            "Result: -14"
+        ],
+        "topic": "addition",
+        "reference_solution": -14
+    },
+    {
+        "problem_id": "AP50192",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "P=729, r=0.06, n=1, t=8",
+            "A = P*(1+r/n)^(n*t) \u2248 1161.92"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "A \u2248 1161.92"
+    },
+    {
+        "problem_id": "AL10183",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 18 = 27",
+            "x = 9"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 9"
+    },
+    {
+        "problem_id": "AL10110",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 1 = 20",
+            "x = 19"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 19"
+    },
+    {
+        "problem_id": "PR40035",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL20282",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 5 = 25",
+            "x = 20"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 20"
+    },
+    {
+        "problem_id": "AR10356",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 2 * 30",
+            "Result: 60"
+        ],
+        "topic": "division",
+        "reference_solution": 60
+    },
+    {
+        "problem_id": "AR10578",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 9 // 7",
+            "Result: 1"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 1
+    },
+    {
+        "problem_id": "AP50082",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=16, a=2, t=6",
+            "s = ut + 0.5*a*t^2 = 132.0"
+        ],
+        "topic": "physics",
+        "reference_solution": "s = 132.0"
+    },
+    {
+        "problem_id": "AR10220",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 42 + 42",
+            "Result: 84"
+        ],
+        "topic": "division",
+        "reference_solution": 84
+    },
+    {
+        "problem_id": "AL30012",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 9, 2x - y = 12",
+            "From x + y = 9 => y = 9-x",
+            "Substitute: 2x - (9-x) = 12 => Solve x",
+            "x = 7, y = 2"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 7, y = 2"
+    },
+    {
+        "problem_id": "AL20384",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 15 = 27",
+            "x = 12"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 12"
+    },
+    {
+        "problem_id": "AP50181",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=19, a=1, t=9",
+            "s = ut + 0.5*a*t^2 = 211.5"
+        ],
+        "topic": "physics",
+        "reference_solution": "s = 211.5"
+    },
+    {
+        "problem_id": "AP50105",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "P=176, r=0.1, n=1, t=5",
+            "A = P*(1+r/n)^(n*t) \u2248 283.45"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "A \u2248 283.45"
+    },
+    {
+        "problem_id": "PR40143",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL30359",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 24, 2x - y = 15",
+            "From x + y = 24 => y = 24-x",
+            "Substitute: 2x - (24-x) = 15 => Solve x",
+            "x = 13, y = 11"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 13, y = 11"
+    },
+    {
+        "problem_id": "AL40089",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 1x^2 + 10x + 5 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 80",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -1, x2 = -9"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x1 = -1, x2 = -9"
+    },
+    {
+        "problem_id": "AL30014",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 35, 2x - y = 10",
+            "From x + y = 35 => y = 35-x",
+            "Substitute: 2x - (35-x) = 10 => Solve x",
+            "x = 15, y = 20"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 15, y = 20"
+    },
+    {
+        "problem_id": "AL30195",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 15, 2x - y = 18",
+            "From x + y = 15 => y = 15-x",
+            "Substitute: 2x - (15-x) = 18 => Solve x",
+            "x = 11, y = 4"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 11, y = 4"
+    },
+    {
+        "problem_id": "AR10184",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 33 // 26",
+            "Result: 1"
+        ],
+        "topic": "division",
+        "reference_solution": 1
+    },
+    {
+        "problem_id": "PR40077",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL20193",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 3 = 21",
+            "x = 18"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 18"
+    },
+    {
+        "problem_id": "AL20349",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 12 = 16",
+            "x = 4"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 4"
+    },
+    {
+        "problem_id": "AL20264",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 14 = 19",
+            "x = 5"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 5"
+    },
+    {
+        "problem_id": "AL20373",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 19 = 24",
+            "x = 5"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 5"
+    },
+    {
+        "problem_id": "PR50002",
+        "problem_type": "proof",
+        "complexity_level": 5,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10570",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 13 * 21",
+            "Result: 273"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 273
+    },
+    {
+        "problem_id": "AP30100",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=16, acceleration a=1, time t=7",
+            "Compute final velocity: v = u + a*t = 23"
+        ],
+        "topic": "physics",
+        "reference_solution": "v = 23"
+    },
+    {
+        "problem_id": "AL30463",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 21, 2x - y = 3",
+            "From x + y = 21 => y = 21-x",
+            "Substitute: 2x - (21-x) = 3 => Solve x",
+            "x = 8, y = 13"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 8, y = 13"
+    },
+    {
+        "problem_id": "AL20231",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 6 = 25",
+            "x = 19"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 19"
+    },
+    {
+        "problem_id": "AR10224",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 36 - 39",
+            "Result: -3"
+        ],
+        "topic": "division",
+        "reference_solution": -3
+    },
+    {
+        "problem_id": "AR10172",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 33 // 11",
+            "Result: 3"
+        ],
+        "topic": "division",
+        "reference_solution": 3
+    },
+    {
+        "problem_id": "AL20199",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 19 = 29",
+            "x = 10"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 10"
+    },
+    {
+        "problem_id": "AR10600",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 6 // 15",
+            "Result: 0"
+        ],
+        "topic": "division",
+        "reference_solution": 0
+    },
+    {
+        "problem_id": "AL40096",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 5x^2 + 7x + 10 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 0",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -1, x2 = -1"
+        ],
+        "topic": "systems",
+        "reference_solution": "x1 = -1, x2 = -1"
+    },
+    {
+        "problem_id": "PR50028",
+        "problem_type": "proof",
+        "complexity_level": 5,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL30483",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 21, 2x - y = 33",
+            "From x + y = 21 => y = 21-x",
+            "Substitute: 2x - (21-x) = 33 => Solve x",
+            "x = 18, y = 3"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 18, y = 3"
+    },
+    {
+        "problem_id": "AL20278",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 9 = 26",
+            "x = 17"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 17"
+    },
+    {
+        "problem_id": "AL20146",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 1 = 4",
+            "x = 3"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 3"
+    },
+    {
+        "problem_id": "PR40132",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10305",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 40 - 31",
+            "Result: 9"
+        ],
+        "topic": "addition",
+        "reference_solution": 9
+    },
+    {
+        "problem_id": "PR30039",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR40176",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR20185",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 13 + 2",
+            "Result: 15"
+        ],
+        "topic": "addition",
+        "reference_solution": 15
+    },
+    {
+        "problem_id": "AP50148",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=27, a=1, t=7",
+            "s = ut + 0.5*a*t^2 = 213.5"
+        ],
+        "topic": "physics",
+        "reference_solution": "s = 213.5"
+    },
+    {
+        "problem_id": "AR10412",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 12 * 42",
+            "Result: 504"
+        ],
+        "topic": "division",
+        "reference_solution": 504
+    },
+    {
+        "problem_id": "AL20227",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 18 = 21",
+            "x = 3"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 3"
+    },
+    {
+        "problem_id": "AL30081",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 7, 2x - y = 2",
+            "From x + y = 7 => y = 7-x",
+            "Substitute: 2x - (7-x) = 2 => Solve x",
+            "x = 3, y = 4"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 3, y = 4"
+    },
+    {
+        "problem_id": "AR10418",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 16 - 37",
+            "Result: -21"
+        ],
+        "topic": "subtraction",
+        "reference_solution": -21
+    },
+    {
+        "problem_id": "AR10093",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 44 // 16",
+            "Result: 2"
+        ],
+        "topic": "addition",
+        "reference_solution": 2
+    },
+    {
+        "problem_id": "AR30031",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 3 - 12",
+            "Result: -9"
+        ],
+        "topic": "multiplication",
+        "reference_solution": -9
+    },
+    {
+        "problem_id": "PR30030",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL40084",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 5x^2 + 9x + 8 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 0",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -1, x2 = -1"
+        ],
+        "topic": "systems",
+        "reference_solution": "x1 = -1, x2 = -1"
+    },
+    {
+        "problem_id": "AP50140",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "P=214, r=0.04, n=1, t=7",
+            "A = P*(1+r/n)^(n*t) \u2248 281.61"
+        ],
+        "topic": "finance",
+        "reference_solution": "A \u2248 281.61"
+    },
+    {
+        "problem_id": "AL30471",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 23, 2x - y = 7",
+            "From x + y = 23 => y = 23-x",
+            "Substitute: 2x - (23-x) = 7 => Solve x",
+            "x = 10, y = 13"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 10, y = 13"
+    },
+    {
+        "problem_id": "AP50169",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "P=431, r=0.1, n=1, t=9",
+            "A = P*(1+r/n)^(n*t) \u2248 1016.28"
+        ],
+        "topic": "physics",
+        "reference_solution": "A \u2248 1016.28"
+    },
+    {
+        "problem_id": "PR40261",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL20330",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 19 = 21",
+            "x = 2"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 2"
+    },
+    {
+        "problem_id": "AR10081",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 18 * 40",
+            "Result: 720"
+        ],
+        "topic": "addition",
+        "reference_solution": 720
+    },
+    {
+        "problem_id": "AL20032",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 7 = 25",
+            "x = 18"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 18"
+    },
+    {
+        "problem_id": "AL20326",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 4 = 9",
+            "x = 5"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 5"
+    },
+    {
+        "problem_id": "AL10148",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 2 = 18",
+            "x = 16"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 16"
+    },
+    {
+        "problem_id": "AR10073",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 45 * 24",
+            "Result: 1080"
+        ],
+        "topic": "addition",
+        "reference_solution": 1080
+    },
+    {
+        "problem_id": "PR50036",
+        "problem_type": "proof",
+        "complexity_level": 5,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR20126",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 48 + 2",
+            "Result: 50"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 50
+    },
+    {
+        "problem_id": "AL20258",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 1 = 2",
+            "x = 1"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 1"
+    },
+    {
+        "problem_id": "PR40051",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR40100",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10070",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 17 // 35",
+            "Result: 0"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 0
+    },
+    {
+        "problem_id": "AR30046",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 29 + 14",
+            "Result: 43"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 43
+    },
+    {
+        "problem_id": "AR20191",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 49 // 34",
+            "Result: 1"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 1
+    },
+    {
+        "problem_id": "PR30043",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10230",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 44 - 47",
+            "Result: -3"
+        ],
+        "topic": "subtraction",
+        "reference_solution": -3
+    },
+    {
+        "problem_id": "AR30050",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 47 * 38",
+            "Result: 1786"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 1786
+    },
+    {
+        "problem_id": "PR50016",
+        "problem_type": "proof",
+        "complexity_level": 5,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10260",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 23 + 49",
+            "Result: 72"
+        ],
+        "topic": "division",
+        "reference_solution": 72
+    },
+    {
+        "problem_id": "AL20239",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 1 = 14",
+            "x = 13"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 13"
+    },
+    {
+        "problem_id": "PR40217",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR40118",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR40211",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10369",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 30 - 34",
+            "Result: -4"
+        ],
+        "topic": "addition",
+        "reference_solution": -4
+    },
+    {
+        "problem_id": "AL40043",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 2x^2 + 2x + 7 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 0",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -1, x2 = -1"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x1 = -1, x2 = -1"
+    },
+    {
+        "problem_id": "AL10143",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 5 = 21",
+            "x = 16"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 16"
+    },
+    {
+        "problem_id": "AR30054",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 12 // 27",
+            "Result: 0"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 0
+    },
+    {
+        "problem_id": "AL10066",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 8 = 9",
+            "x = 1"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 1"
+    },
+    {
+        "problem_id": "AL30010",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 27, 2x - y = 6",
+            "From x + y = 27 => y = 27-x",
+            "Substitute: 2x - (27-x) = 6 => Solve x",
+            "x = 11, y = 16"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 11, y = 16"
+    },
+    {
+        "problem_id": "AL10064",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 4 = 21",
+            "x = 17"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 17"
+    },
+    {
+        "problem_id": "PR30098",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AP30053",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=6, acceleration a=5, time t=1",
+            "Compute final velocity: v = u + a*t = 11"
+        ],
+        "topic": "finance",
+        "reference_solution": "v = 11"
+    },
+    {
+        "problem_id": "AL20036",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 4 = 15",
+            "x = 11"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 11"
+    },
+    {
+        "problem_id": "AR30006",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 43 // 45",
+            "Result: 0"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 0
+    },
+    {
+        "problem_id": "AL30408",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 14, 2x - y = 4",
+            "From x + y = 14 => y = 14-x",
+            "Substitute: 2x - (14-x) = 4 => Solve x",
+            "x = 6, y = 8"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 6, y = 8"
+    },
+    {
+        "problem_id": "PR30023",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR20064",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 19 // 3",
+            "Result: 6"
+        ],
+        "topic": "division",
+        "reference_solution": 6
+    },
+    {
+        "problem_id": "PR50038",
+        "problem_type": "proof",
+        "complexity_level": 5,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL10100",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 11 = 17",
+            "x = 6"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 6"
+    },
+    {
+        "problem_id": "AL20374",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 9 = 29",
+            "x = 20"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 20"
+    },
+    {
+        "problem_id": "AP50157",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "P=164, r=0.09, n=1, t=5",
+            "A = P*(1+r/n)^(n*t) \u2248 252.33"
+        ],
+        "topic": "physics",
+        "reference_solution": "A \u2248 252.33"
+    },
+    {
+        "problem_id": "AL20143",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 17 = 23",
+            "x = 6"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 6"
+    },
+    {
+        "problem_id": "AL40074",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 4x^2 + 10x + 8 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 0",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -2, x2 = -2"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x1 = -2, x2 = -2"
+    },
+    {
+        "problem_id": "AL30108",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 20, 2x - y = -8",
+            "From x + y = 20 => y = 20-x",
+            "Substitute: 2x - (20-x) = -8 => Solve x",
+            "x = 4, y = 16"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 4, y = 16"
+    },
+    {
+        "problem_id": "AP30051",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=11, acceleration a=4, time t=4",
+            "Compute final velocity: v = u + a*t = 27"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "v = 27"
+    },
+    {
+        "problem_id": "AR10003",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 7 * 27",
+            "Result: 189"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 189
+    },
+    {
+        "problem_id": "AL10084",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 9 = 18",
+            "x = 9"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 9"
+    },
+    {
+        "problem_id": "AR10011",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 12 + 18",
+            "Result: 30"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 30
+    },
+    {
+        "problem_id": "AR10173",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 40 // 36",
+            "Result: 1"
+        ],
+        "topic": "addition",
+        "reference_solution": 1
+    },
+    {
+        "problem_id": "AL20223",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 10 = 15",
+            "x = 5"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 5"
+    },
+    {
+        "problem_id": "AL30087",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 35, 2x - y = 16",
+            "From x + y = 35 => y = 35-x",
+            "Substitute: 2x - (35-x) = 16 => Solve x",
+            "x = 17, y = 18"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 17, y = 18"
+    },
+    {
+        "problem_id": "AL20130",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 17 = 32",
+            "x = 15"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 15"
+    },
+    {
+        "problem_id": "AP30073",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=12, acceleration a=1, time t=1",
+            "Compute final velocity: v = u + a*t = 13"
+        ],
+        "topic": "physics",
+        "reference_solution": "v = 13"
+    },
+    {
+        "problem_id": "AP30071",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=10, acceleration a=4, time t=2",
+            "Compute final velocity: v = u + a*t = 18"
+        ],
+        "topic": "finance",
+        "reference_solution": "v = 18"
+    },
+    {
+        "problem_id": "AL30069",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 5, 2x - y = 7",
+            "From x + y = 5 => y = 5-x",
+            "Substitute: 2x - (5-x) = 7 => Solve x",
+            "x = 4, y = 1"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 4, y = 1"
+    },
+    {
+        "problem_id": "AL20177",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 20 = 36",
+            "x = 16"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 16"
+    },
+    {
+        "problem_id": "AL40013",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 2x^2 + 10x + 4 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 68",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -1, x2 = -5"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x1 = -1, x2 = -5"
+    },
+    {
+        "problem_id": "PR40193",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL30095",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 8, 2x - y = 4",
+            "From x + y = 8 => y = 8-x",
+            "Substitute: 2x - (8-x) = 4 => Solve x",
+            "x = 4, y = 4"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 4, y = 4"
+    },
+    {
+        "problem_id": "AL30085",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 19, 2x - y = 29",
+            "From x + y = 19 => y = 19-x",
+            "Substitute: 2x - (19-x) = 29 => Solve x",
+            "x = 16, y = 3"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 16, y = 3"
+    },
+    {
+        "problem_id": "AL20144",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 20 = 28",
+            "x = 8"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 8"
+    },
+    {
+        "problem_id": "PR40300",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR40102",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL30301",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 24, 2x - y = 27",
+            "From x + y = 24 => y = 24-x",
+            "Substitute: 2x - (24-x) = 27 => Solve x",
+            "x = 17, y = 7"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 17, y = 7"
+    },
+    {
+        "problem_id": "AL20246",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 12 = 17",
+            "x = 5"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 5"
+    },
+    {
+        "problem_id": "PR50030",
+        "problem_type": "proof",
+        "complexity_level": 5,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AP30008",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=10, acceleration a=2, time t=6",
+            "Compute final velocity: v = u + a*t = 22"
+        ],
+        "topic": "finance",
+        "reference_solution": "v = 22"
+    },
+    {
+        "problem_id": "AL30114",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 24, 2x - y = -6",
+            "From x + y = 24 => y = 24-x",
+            "Substitute: 2x - (24-x) = -6 => Solve x",
+            "x = 6, y = 18"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 6, y = 18"
+    },
+    {
+        "problem_id": "AR10128",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 7 + 6",
+            "Result: 13"
+        ],
+        "topic": "division",
+        "reference_solution": 13
+    },
+    {
+        "problem_id": "AR30033",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 7 + 21",
+            "Result: 28"
+        ],
+        "topic": "addition",
+        "reference_solution": 28
+    },
+    {
+        "problem_id": "AL20069",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 18 = 19",
+            "x = 1"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 1"
+    },
+    {
+        "problem_id": "PR30024",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AP20045",
+        "problem_type": "applied",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Initial velocity u=7, acceleration a=1, time t=10",
+            "Compute final velocity: v = u + a*t = 17"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "v = 17"
+    },
+    {
+        "problem_id": "AR10571",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 18 // 44",
+            "Result: 0"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 0
+    },
+    {
+        "problem_id": "AR20096",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 3 * 35",
+            "Result: 105"
+        ],
+        "topic": "division",
+        "reference_solution": 105
+    },
+    {
+        "problem_id": "AL30196",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 13, 2x - y = 23",
+            "From x + y = 13 => y = 13-x",
+            "Substitute: 2x - (13-x) = 23 => Solve x",
+            "x = 12, y = 1"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 12, y = 1"
+    },
+    {
+        "problem_id": "AR20153",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 50 - 39",
+            "Result: 11"
+        ],
+        "topic": "addition",
+        "reference_solution": 11
+    },
+    {
+        "problem_id": "PR20035",
+        "problem_type": "proof",
+        "complexity_level": 2,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL20237",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 20 = 23",
+            "x = 3"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 3"
+    },
+    {
+        "problem_id": "PR40081",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL30262",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 20, 2x - y = -11",
+            "From x + y = 20 => y = 20-x",
+            "Substitute: 2x - (20-x) = -11 => Solve x",
+            "x = 3, y = 17"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 3, y = 17"
+    },
+    {
+        "problem_id": "AL40077",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 5x^2 + 4x + 3 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 0",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -1, x2 = -1"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x1 = -1, x2 = -1"
+    },
+    {
+        "problem_id": "AR10071",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 3 * 28",
+            "Result: 84"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 84
+    },
+    {
+        "problem_id": "AL30273",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 33, 2x - y = 24",
+            "From x + y = 33 => y = 33-x",
+            "Substitute: 2x - (33-x) = 24 => Solve x",
+            "x = 19, y = 14"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 19, y = 14"
+    },
+    {
+        "problem_id": "AP20009",
+        "problem_type": "applied",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Initial velocity u=5, acceleration a=1, time t=10",
+            "Compute final velocity: v = u + a*t = 15"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "v = 15"
+    },
+    {
+        "problem_id": "AP40071",
+        "problem_type": "applied",
+        "complexity_level": 4,
+        "solution_steps": [
+            "P=437, r=0.09, n=1, t=7",
+            "A = P*(1+r/n)^(n*t) \u2248 798.85"
+        ],
+        "topic": "finance",
+        "reference_solution": "A \u2248 798.85"
+    },
+    {
+        "problem_id": "AP50110",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=23, a=4, t=13",
+            "s = ut + 0.5*a*t^2 = 637.0"
+        ],
+        "topic": "finance",
+        "reference_solution": "s = 637.0"
+    },
+    {
+        "problem_id": "AR30079",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 27 - 44",
+            "Result: -17"
+        ],
+        "topic": "multiplication",
+        "reference_solution": -17
+    },
+    {
+        "problem_id": "AR10053",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 5 * 4",
+            "Result: 20"
+        ],
+        "topic": "addition",
+        "reference_solution": 20
+    },
+    {
+        "problem_id": "PR40238",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10179",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 18 - 49",
+            "Result: -31"
+        ],
+        "topic": "multiplication",
+        "reference_solution": -31
+    },
+    {
+        "problem_id": "PR20039",
+        "problem_type": "proof",
+        "complexity_level": 2,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL30026",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 17, 2x - y = -11",
+            "From x + y = 17 => y = 17-x",
+            "Substitute: 2x - (17-x) = -11 => Solve x",
+            "x = 2, y = 15"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 2, y = 15"
+    },
+    {
+        "problem_id": "AR30028",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 41 - 39",
+            "Result: 2"
+        ],
+        "topic": "division",
+        "reference_solution": 2
+    },
+    {
+        "problem_id": "PR40017",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL40004",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 2x^2 + 9x + 5 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 41",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -1, x2 = -4"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x1 = -1, x2 = -4"
+    },
+    {
+        "problem_id": "PR40192",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL20341",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 9 = 26",
+            "x = 17"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 17"
+    },
+    {
+        "problem_id": "AL30145",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 27, 2x - y = 27",
+            "From x + y = 27 => y = 27-x",
+            "Substitute: 2x - (27-x) = 27 => Solve x",
+            "x = 18, y = 9"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 18, y = 9"
+    },
+    {
+        "problem_id": "PR40165",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR10507",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 39 + 13",
+            "Result: 52"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 52
+    },
+    {
+        "problem_id": "PR30029",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AP50188",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "P=135, r=0.05, n=1, t=5",
+            "A = P*(1+r/n)^(n*t) \u2248 172.3"
+        ],
+        "topic": "finance",
+        "reference_solution": "A \u2248 172.3"
+    },
+    {
+        "problem_id": "AL40019",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 5x^2 + 2x + 5 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 0",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -1, x2 = -1"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x1 = -1, x2 = -1"
+    },
+    {
+        "problem_id": "AR20050",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 32 * 13",
+            "Result: 416"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 416
+    },
+    {
+        "problem_id": "PR40292",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AR30025",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 1 + 22",
+            "Result: 23"
+        ],
+        "topic": "addition",
+        "reference_solution": 23
+    },
+    {
+        "problem_id": "AL10149",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 3 = 6",
+            "x = 3"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 3"
+    },
+    {
+        "problem_id": "AL20361",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 11 = 29",
+            "x = 18"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 18"
+    },
+    {
+        "problem_id": "AL30051",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 22, 2x - y = 5",
+            "From x + y = 22 => y = 22-x",
+            "Substitute: 2x - (22-x) = 5 => Solve x",
+            "x = 9, y = 13"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 9, y = 13"
+    },
+    {
+        "problem_id": "AL40094",
+        "problem_type": "algebra",
+        "complexity_level": 4,
+        "solution_steps": [
+            "Solve quadratic: 1x^2 + 5x + 6 = 0",
+            "Compute discriminant D = b^2 - 4ac",
+            "D = 1",
+            "Roots: x = (-b \u00b1 \u221aD) / (2a) => x1 = -2, x2 = -3"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x1 = -2, x2 = -3"
+    },
+    {
+        "problem_id": "AR10085",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 16 // 42",
+            "Result: 0"
+        ],
+        "topic": "addition",
+        "reference_solution": 0
+    },
+    {
+        "problem_id": "AR30060",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 4 * 20",
+            "Result: 80"
+        ],
+        "topic": "division",
+        "reference_solution": 80
+    },
+    {
+        "problem_id": "PR50006",
+        "problem_type": "proof",
+        "complexity_level": 5,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL20288",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 8 = 14",
+            "x = 6"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 6"
+    },
+    {
+        "problem_id": "AR10037",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 14 * 3",
+            "Result: 42"
+        ],
+        "topic": "addition",
+        "reference_solution": 42
+    },
+    {
+        "problem_id": "AL20327",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 10 = 27",
+            "x = 17"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 17"
+    },
+    {
+        "problem_id": "AL20078",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 1 = 20",
+            "x = 19"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 19"
+    },
+    {
+        "problem_id": "AL30190",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 32, 2x - y = 4",
+            "From x + y = 32 => y = 32-x",
+            "Substitute: 2x - (32-x) = 4 => Solve x",
+            "x = 12, y = 20"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 12, y = 20"
+    },
+    {
+        "problem_id": "AL20338",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 13 = 19",
+            "x = 6"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 6"
+    },
+    {
+        "problem_id": "AL10163",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 7 = 13",
+            "x = 6"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 6"
+    },
+    {
+        "problem_id": "AP50057",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=24, a=5, t=13",
+            "s = ut + 0.5*a*t^2 = 734.5"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "s = 734.5"
+    },
+    {
+        "problem_id": "AP30125",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=20, acceleration a=3, time t=10",
+            "Compute final velocity: v = u + a*t = 50"
+        ],
+        "topic": "finance",
+        "reference_solution": "v = 50"
+    },
+    {
+        "problem_id": "AP50016",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "P=116, r=0.05, n=1, t=10",
+            "A = P*(1+r/n)^(n*t) \u2248 188.95"
+        ],
+        "topic": "physics",
+        "reference_solution": "A \u2248 188.95"
+    },
+    {
+        "problem_id": "AP40049",
+        "problem_type": "applied",
+        "complexity_level": 4,
+        "solution_steps": [
+            "P=212, r=0.09, n=1, t=8",
+            "A = P*(1+r/n)^(n*t) \u2248 422.42"
+        ],
+        "topic": "physics",
+        "reference_solution": "A \u2248 422.42"
+    },
+    {
+        "problem_id": "AL30066",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 34, 2x - y = 23",
+            "From x + y = 34 => y = 34-x",
+            "Substitute: 2x - (34-x) = 23 => Solve x",
+            "x = 19, y = 15"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 19, y = 15"
+    },
+    {
+        "problem_id": "AP50056",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=17, a=4, t=5",
+            "s = ut + 0.5*a*t^2 = 135.0"
+        ],
+        "topic": "finance",
+        "reference_solution": "s = 135.0"
+    },
+    {
+        "problem_id": "AR20105",
+        "problem_type": "arithmetic",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Compute 36 // 39",
+            "Result: 0"
+        ],
+        "topic": "addition",
+        "reference_solution": 0
+    },
+    {
+        "problem_id": "AP50166",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=25, a=4, t=7",
+            "s = ut + 0.5*a*t^2 = 273.0"
+        ],
+        "topic": "physics",
+        "reference_solution": "s = 273.0"
+    },
+    {
+        "problem_id": "AL30219",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 20, 2x - y = -5",
+            "From x + y = 20 => y = 20-x",
+            "Substitute: 2x - (20-x) = -5 => Solve x",
+            "x = 5, y = 15"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 5, y = 15"
+    },
+    {
+        "problem_id": "AL10005",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 13 = 21",
+            "x = 8"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 8"
+    },
+    {
+        "problem_id": "AR10557",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 18 - 34",
+            "Result: -16"
+        ],
+        "topic": "addition",
+        "reference_solution": -16
+    },
+    {
+        "problem_id": "AR10503",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 29 * 10",
+            "Result: 290"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 290
+    },
+    {
+        "problem_id": "AP40099",
+        "problem_type": "applied",
+        "complexity_level": 4,
+        "solution_steps": [
+            "u=14, a=5, t=9",
+            "s = ut + 0.5*a*t^2 = 328.5"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "s = 328.5"
+    },
+    {
+        "problem_id": "AL10124",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 6 = 18",
+            "x = 12"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 12"
+    },
+    {
+        "problem_id": "AL20015",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 14 = 29",
+            "x = 15"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 15"
+    },
+    {
+        "problem_id": "AL20013",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 4 = 14",
+            "x = 10"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 10"
+    },
+    {
+        "problem_id": "PR30067",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR40050",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR40107",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR50013",
+        "problem_type": "proof",
+        "complexity_level": 5,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR30084",
+        "problem_type": "proof",
+        "complexity_level": 3,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL30149",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 8, 2x - y = 7",
+            "From x + y = 8 => y = 8-x",
+            "Substitute: 2x - (8-x) = 7 => Solve x",
+            "x = 5, y = 3"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 5, y = 3"
+    },
+    {
+        "problem_id": "AP30144",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=14, acceleration a=2, time t=9",
+            "Compute final velocity: v = u + a*t = 32"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "v = 32"
+    },
+    {
+        "problem_id": "AL10071",
+        "problem_type": "algebra",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Solve x + 8 = 17",
+            "x = 9"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 9"
+    },
+    {
+        "problem_id": "AR10204",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 1 - 21",
+            "Result: -20"
+        ],
+        "topic": "division",
+        "reference_solution": -20
+    },
+    {
+        "problem_id": "AL30268",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 23, 2x - y = 31",
+            "From x + y = 23 => y = 23-x",
+            "Substitute: 2x - (23-x) = 31 => Solve x",
+            "x = 18, y = 5"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 18, y = 5"
+    },
+    {
+        "problem_id": "AR10267",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 12 // 43",
+            "Result: 0"
+        ],
+        "topic": "multiplication",
+        "reference_solution": 0
+    },
+    {
+        "problem_id": "AP50015",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "P=591, r=0.08, n=1, t=10",
+            "A = P*(1+r/n)^(n*t) \u2248 1275.92"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "A \u2248 1275.92"
+    },
+    {
+        "problem_id": "PR40199",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "PR50014",
+        "problem_type": "proof",
+        "complexity_level": 5,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL20175",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 12 = 28",
+            "x = 16"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 16"
+    },
+    {
+        "problem_id": "AL20351",
+        "problem_type": "algebra",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Solve x + 20 = 30",
+            "x = 10"
+        ],
+        "topic": "systems",
+        "reference_solution": "x = 10"
+    },
+    {
+        "problem_id": "AR30030",
+        "problem_type": "arithmetic",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Compute 22 * 49",
+            "Result: 1078"
+        ],
+        "topic": "subtraction",
+        "reference_solution": 1078
+    },
+    {
+        "problem_id": "AR10280",
+        "problem_type": "arithmetic",
+        "complexity_level": 1,
+        "solution_steps": [
+            "Compute 20 - 40",
+            "Result: -20"
+        ],
+        "topic": "division",
+        "reference_solution": -20
+    },
+    {
+        "problem_id": "PR40123",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "geometry",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AL30302",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 21, 2x - y = 0",
+            "From x + y = 21 => y = 21-x",
+            "Substitute: 2x - (21-x) = 0 => Solve x",
+            "x = 7, y = 14"
+        ],
+        "topic": "quadratic equations",
+        "reference_solution": "x = 7, y = 14"
+    },
+    {
+        "problem_id": "PR40247",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "sum formulas",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AP30076",
+        "problem_type": "applied",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Initial velocity u=10, acceleration a=3, time t=9",
+            "Compute final velocity: v = u + a*t = 37"
+        ],
+        "topic": "physics",
+        "reference_solution": "v = 37"
+    },
+    {
+        "problem_id": "AP20006",
+        "problem_type": "applied",
+        "complexity_level": 2,
+        "solution_steps": [
+            "Initial velocity u=17, acceleration a=2, time t=5",
+            "Compute final velocity: v = u + a*t = 27"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "v = 27"
+    },
+    {
+        "problem_id": "AL30424",
+        "problem_type": "algebra",
+        "complexity_level": 3,
+        "solution_steps": [
+            "Solve system: x + y = 24, 2x - y = 12",
+            "From x + y = 24 => y = 24-x",
+            "Substitute: 2x - (24-x) = 12 => Solve x",
+            "x = 12, y = 12"
+        ],
+        "topic": "linear equations",
+        "reference_solution": "x = 12, y = 12"
+    },
+    {
+        "problem_id": "PR40122",
+        "problem_type": "proof",
+        "complexity_level": 4,
+        "solution_steps": [
+            "State base case",
+            "Assume statement holds for n=k",
+            "Prove for n=k+1"
+        ],
+        "topic": "inequalities",
+        "reference_solution": "Proof holds by induction"
+    },
+    {
+        "problem_id": "AP50165",
+        "problem_type": "applied",
+        "complexity_level": 5,
+        "solution_steps": [
+            "u=19, a=5, t=6",
+            "s = ut + 0.5*a*t^2 = 204.0"
+        ],
+        "topic": "algorithms",
+        "reference_solution": "s = 204.0"
+    }
+]
