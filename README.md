@@ -58,7 +58,7 @@ The benchmark evaluates models using multiple metrics:
 Clone the repository:
 
 ```bash
-git clone git@github.com:<anon-username>/MathBench-2025.git
+git clone git@github.com:mathbench-2025/MathBench-2025.git
 cd MathBench-2025
 ```
 
